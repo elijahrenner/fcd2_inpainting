@@ -2,3 +2,5 @@ DDPM_Pseudo3D/FCD2
 DDPM_Pseudo3D/scripts/log
 DDPM_Pseudo3D/scripts/04_19_2025_sampling
 DDPM_Pseudo3D/scripts/04_20_2025_sampling_to_share
+DDPM_Pseudo3D/scripts/05_14_2025_sampling/sampling_images
+DDPM_Pseudo3D/scripts/05_14_2025_sampling/sampling_labels
